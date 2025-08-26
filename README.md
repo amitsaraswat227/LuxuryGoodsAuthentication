@@ -58,12 +58,17 @@ We envision a future where checking a luxury item's authenticity is as simple as
 
 ## Contract Address Details
 
+CONTRACT ID : ST21JR2EVFNBVEXGMW9NHMXCG7E3JDMPKMTF34P1Z.LuxuryGoodsAuthentication
+![alt text](image.png)
+
 **Blockchain Network**: [To be added - Stacks Mainnet/Testnet]
 **Contract Address**: [To be added after deployment]
 **Contract Name**: [To be added]
 **Transaction Hash**: [To be added after deployment]
 **Block Height**: [To be added after deployment]
 **Deployer Address**: [To be added]
+
+
 
 ---
 
